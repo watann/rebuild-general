@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rebuild-general.sweet-cow-3541.chatgpt.site/sitemap.xml
